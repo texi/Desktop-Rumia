@@ -5,5 +5,7 @@
 
 [+]Want to add more function in the future!
 
+[+]In Chinese.
+
 [-]Since the pictures are taken from another touhou desktop pet and I don't know how to find the painter,
   if you have some clues,please contact me! 
